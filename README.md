@@ -25,4 +25,4 @@ Este é um projeto Android desenvolvido em Kotlin que implementa uma calculadora
 
   ## Contato
 
-  lucasrs2206@gmail.com
+  Lucas Rodrigues - lucasrs2206@gmail.com
